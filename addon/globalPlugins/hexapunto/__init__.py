@@ -1,5 +1,5 @@
 # Hexapunto: teclado braille Perkins para NVDA.
-# Copyright (C) 2026 hxebolax
+# Copyright (C) 2026 Héctor J. Benítez Corredera
 # Este archivo está cubierto por la Licencia Pública General de GNU, versión 2 o posterior.
 # Consulta el archivo COPYING.txt para más detalles.
 

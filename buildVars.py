@@ -34,7 +34,7 @@ del final de línea, modo de una mano, modo de práctica para aprender braille, 
 - Órdenes de espacio con puntos configurables desde «Gestos de entrada».
 - Panel de opciones propio en las preferencias de NVDA."""),
 	# Autor
-	addon_author="hxebolax",
+	addon_author="Héctor J. Benítez Corredera",
 	# Página de la documentación y soporte
 	addon_url="https://github.com/hxebolax/hexapunto",
 	# Repositorio con el código fuente

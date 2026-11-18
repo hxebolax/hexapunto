@@ -4,7 +4,7 @@ Hexapunto convierte el teclado del ordenador en una **máquina de escribir brail
 
 * Versión: 2026.11.18
 * Compatible con: NVDA 2026.1 a 2027.1 (y siguientes versiones de la serie 2027)
-* Autor: hxebolax
+* Autor: Héctor J. Benítez Corredera
 * Código fuente: [github.com/hxebolax/hexapunto](https://github.com/hxebolax/hexapunto)
 * Licencia: GNU GPL, versión 2 o posterior
 
@@ -361,7 +361,7 @@ La prueba del panel de opciones usa además el `gui/guiHelper.py` del código fu
 
 ## Licencia
 
-Copyright (C) 2026 hxebolax.
+Copyright (C) 2026 Héctor J. Benítez Corredera.
 
 Este programa es software libre: puedes redistribuirlo y modificarlo según los términos de la Licencia Pública General de GNU publicada por la Free Software Foundation, versión 2 de la licencia o (a tu elección) cualquier versión posterior. Consulta el archivo `COPYING.txt`.
 
